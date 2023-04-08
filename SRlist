@@ -762,3 +762,6 @@ acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="reus" tvg-id="finales", Finales
 https://www.youtube.com/watch?v=aFoTM9b55Pk
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="finales", WPT
+https://www.worldpadeltourtv.com/video/b03ca956-ceff-4c54-9887-08db2c6338b6
