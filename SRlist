@@ -760,12 +760,12 @@ acestream://c33404e81c7499e9c962e8a672c6cb4d534e431c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztveLlNfPR75FUihWUK286ocYPp3Z1RjSU6FjqjCqgJG3_JMnvJ3U62MSpvgoaQ8erlE&usqp=CAU" group-title="Alemania" tvg-id="ZDF HD", ZDF GER HD
 acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="finales", finales 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="WPT", finales 
 https://www.youtube.com/watch?v=aFoTM9b55Pk
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="semi mañana", semi mañana 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="WPT", semi mañana 
 https://www.youtube.com/watch?v=hF85uajsSCo
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="semi tarde", semi tarde 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="WPT", semi tarde 
 https://www.youtube.com/watch?v=iE0f2nUfAHM
 
