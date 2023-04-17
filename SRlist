@@ -763,23 +763,8 @@ acestream://c33404e81c7499e9c962e8a672c6cb4d534e431c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztveLlNfPR75FUihWUK286ocYPp3Z1RjSU6FjqjCqgJG3_JMnvJ3U62MSpvgoaQ8erlE&usqp=CAU" group-title="Alemania" tvg-id="ZDF HD", ZDF GER HD
 acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="WPT", semi mañana 
-https://www.youtube.com/watch?v=hF85uajsSCo
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="WPT", semi tarde 
-https://www.youtube.com/watch?v=iE0f2nUfAHM
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/world-padel-tour-logo-345854FCE2-seeklogo.com.png" group-title="REUS" tvg-id="WPT", finales 
-https://www.youtube.com/watch?v=aFoTM9b55Pk
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/Y/youtube-music-logo-50422973B2-seeklogo.com.png" group-title="Marc Anthony" tvg-id="videos", viña mar
-https://www.youtube.com/watch?v=rz6IsZDHGZQ
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/Y/youtube-music-logo-50422973B2-seeklogo.com.png" group-title="Marc Anthony" tvg-id="videos", 30 exitos
-https://www.youtube.com/watch?v=KSR8EdYvKZ4
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/Y/youtube-music-logo-50422973B2-seeklogo.com.png" group-title="Marc Anthony" tvg-id="videos", playlist
-https://www.youtube.com/watch?v=YXnjy5YlDwk&list=PLgaFNC_I_ZkkbypF-L1qX3TBGjEKa8SKu
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/UFC-logo-BA88B300DC-seeklogo.com.png" group-title="UFC" tvg-id="UFC287", Free Fight Marathon
 https://www.youtube.com/watch?v=Xm2gqRyckqw
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZCCS24N/logo.png" group-title="World Padel Tour TV" tvg-id="World Padel Tour TV", World Padel Tour TV
+https://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1681659582~acl=%2f*~data=hdntl~hmac=83e5e40da046de5adcfcc0772d6979a222686c03b7bca8d6a002edbf1dc2eef9/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
