@@ -763,8 +763,5 @@ acestream://c33404e81c7499e9c962e8a672c6cb4d534e431c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztveLlNfPR75FUihWUK286ocYPp3Z1RjSU6FjqjCqgJG3_JMnvJ3U62MSpvgoaQ8erlE&usqp=CAU" group-title="Alemania" tvg-id="ZDF HD", ZDF GER HD
 acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/UFC-logo-BA88B300DC-seeklogo.com.png" group-title="UFC" tvg-id="UFC287", Free Fight Marathon
-https://www.youtube.com/watch?v=Xm2gqRyckqw
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZCCS24N/logo.png" group-title="World Padel Tour TV" tvg-id="World Padel Tour TV", World Padel Tour TV
 https://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1681659582~acl=%2f*~data=hdntl~hmac=83e5e40da046de5adcfcc0772d6979a222686c03b7bca8d6a002edbf1dc2eef9/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
