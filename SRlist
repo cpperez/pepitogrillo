@@ -316,6 +316,8 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69320.ts
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel " tvg-logo="" group-title="Spain",Disney Channel 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina " tvg-logo="" group-title="Spain",Canal Cocina
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117200
 
 #EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 1 DE
 acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c
